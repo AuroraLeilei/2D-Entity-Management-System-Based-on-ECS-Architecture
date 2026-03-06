@@ -56,9 +56,10 @@ mingw32-make
 实体碰撞窗口边缘会反弹；
 实体之间碰撞会精准分离并沿碰撞方向反弹；
 无穿透、无卡顿，碰撞效果符合物理直觉。
+![效果演示](CollisionGIF.gif)
 
 ## 代码结构
-ecs-2d-collision/
+```bash
 ├── include/
 │   └── ecs/
 │       ├── EntityManager.h    # ECS核心：实体/组件管理
@@ -76,7 +77,7 @@ ecs-2d-collision/
 │   └── main.cpp               # 程序入口：初始化+主循环
 ├── CMakeLists.txt             # CMake构建配置
 └── README.md                  # 项目说明
-
+```
 ## 核心技术点
 ### 1. AABB 碰撞检测
 ```bash
