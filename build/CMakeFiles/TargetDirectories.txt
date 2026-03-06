@@ -1,0 +1,3 @@
+D:/2D-Entity-Management-System-Based-on-ECS-Architecture/build/CMakeFiles/ecs-entity-manager.dir
+D:/2D-Entity-Management-System-Based-on-ECS-Architecture/build/CMakeFiles/edit_cache.dir
+D:/2D-Entity-Management-System-Based-on-ECS-Architecture/build/CMakeFiles/rebuild_cache.dir

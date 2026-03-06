@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\CollisionSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ecs\\CollisionSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\CollisionSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\ecs\\CollisionSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ecs\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ecs\\System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\ecs\\System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\CollisionComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\ecs\\CollisionComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\renderer\\SDLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\renderer\\SDLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\ecs\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\renderer\\SDLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\renderer\\SDLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\ecs\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollisionSystem.cpp",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\CollisionSystem.cpp",
+              "RelativeDocumentMoniker": "src\\ecs\\CollisionSystem.cpp",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\CollisionSystem.cpp",
+              "RelativeToolTip": "src\\ecs\\CollisionSystem.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T06:49:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionSystem.h",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\CollisionSystem.h",
+              "RelativeDocumentMoniker": "include\\ecs\\CollisionSystem.h",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\CollisionSystem.h",
+              "RelativeToolTip": "include\\ecs\\CollisionSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T06:49:02.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "System.h",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\System.h",
+              "RelativeDocumentMoniker": "include\\ecs\\System.h",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\System.h",
+              "RelativeToolTip": "include\\ecs\\System.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T03:14:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T03:17:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "System.cpp",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\System.cpp",
+              "RelativeDocumentMoniker": "src\\ecs\\System.cpp",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\System.cpp",
+              "RelativeToolTip": "src\\ecs\\System.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T03:16:43.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-06T03:32:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Component.cpp",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\Component.cpp",
+              "RelativeDocumentMoniker": "src\\ecs\\Component.cpp",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\ecs\\Component.cpp",
+              "RelativeToolTip": "src\\ecs\\Component.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T04:01:42.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollisionComponent.h",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\CollisionComponent.h",
+              "RelativeDocumentMoniker": "include\\ecs\\CollisionComponent.h",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\CollisionComponent.h",
+              "RelativeToolTip": "include\\ecs\\CollisionComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T06:46:14.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SDLRenderer.h",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\renderer\\SDLRenderer.h",
+              "RelativeDocumentMoniker": "include\\renderer\\SDLRenderer.h",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\renderer\\SDLRenderer.h",
+              "RelativeToolTip": "include\\renderer\\SDLRenderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T03:52:53.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SDLRenderer.cpp",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\renderer\\SDLRenderer.cpp",
+              "RelativeDocumentMoniker": "src\\renderer\\SDLRenderer.cpp",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\src\\renderer\\SDLRenderer.cpp",
+              "RelativeToolTip": "src\\renderer\\SDLRenderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T03:17:06.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Component.h",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\Component.h",
+              "RelativeDocumentMoniker": "include\\ecs\\Component.h",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\Component.h",
+              "RelativeToolTip": "include\\ecs\\Component.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T03:13:59.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.h",
+              "DocumentMoniker": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\Entity.h",
+              "RelativeDocumentMoniker": "include\\ecs\\Entity.h",
+              "ToolTip": "D:\\2D-Entity-Management-System-Based-on-ECS-Architecture\\include\\ecs\\Entity.h",
+              "RelativeToolTip": "include\\ecs\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T03:13:30.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\include\\ecs",
+    "\\include\\renderer",
+    "\\src",
+    "\\src\\ecs",
+    "\\src\\renderer"
+  ],
+  "SelectedNode": "\\src\\ecs\\CollisionSystem.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\2D-Entity-Management-System-Based-on-ECS-Architecture\build\CMakeFiles\966e010c0c41af9629bf56db5d750fb7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{56E400E9-5131-3C13-9B72-43C333AC8487}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
